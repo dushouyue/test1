@@ -24,8 +24,9 @@
       "Bash(~/bin/gh.exe pr *)",
       "Bash(where gh *)",
       "Bash(gh auth *)",
-      "Bash(export GH_TOKEN=\"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\")",
-      "Bash(gh repo *)"
+      "Bash(export GH_TOKEN=\")",
+      "Bash(gh repo *)",
+      "Bash(git reset *)"
     ]
   }
 }
